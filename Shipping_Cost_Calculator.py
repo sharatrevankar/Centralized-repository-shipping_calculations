@@ -1,6 +1,4 @@
 #  # Here is a new update by Sharat Revankar
-# Here is another update by Sharat Revankar
-
 
 # Shipping Cost Calculator
 
